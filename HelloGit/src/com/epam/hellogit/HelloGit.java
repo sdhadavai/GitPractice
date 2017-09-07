@@ -6,7 +6,9 @@ public class HelloGit {
 		// greeting updated
 		System.out.println("Hello Git");
 		System.out.println("I am developer two");
-
+		for(int i=1; i<6; i++){
+			System.out.println(i);
+		}
 	}
 
 }
